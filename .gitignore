@@ -1,0 +1,10 @@
+# VSCode
+/.vscode/
+# Visual Studio
+/.vs/
+# JetBrains
+/.idea/
+
+# Ruby
+/tmp/
+/Gemfile.lock
